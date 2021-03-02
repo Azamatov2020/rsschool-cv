@@ -4,7 +4,7 @@
 - **Position** : junior FrontEnd Developer
 - **Date of Birth** : 04.05.1997
 - **Phone**: +7 747 348 6131
--**Email** : muratova_iristi@bk.ru
+- **Email** : muratova_iristi@bk.ru
 
 ###Education
 | Year |degree |  University  |
