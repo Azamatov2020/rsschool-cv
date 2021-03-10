@@ -1,0 +1,147 @@
+* {
+  padding: 0;
+}
+ 
+body {
+  font: 16px 'Roboto';
+}
+ 
+.conteiner {
+  width: 620px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+ 
+.header {
+  padding: 20px 0;
+}
+ 
+.header img {
+  width: 170px;
+  height: 170px;
+  border-radius: 100%;
+}
+ 
+.photo {
+  display: inline-block;
+}
+.author {
+  display: inline-block;
+}
+ 
+.author {
+  margin-left: 15px;
+  vertical-align: center;
+}
+ 
+.info_box span {
+  color: #95a5a6
+}
+
+ 
+h1 , h2 ,h3 , h4 , h5 ,h6 {
+  text-align: center;
+  color: #2c3e50;
+}
+ 
+.info {
+  font-size: 18px;}
+
+hr {
+  border: none;
+  color: #eee;
+  background-color: #eee;
+  height: 1px;
+}
+ 
+
+ 
+
+p {
+  text-align: left;
+  color: #34495e;
+}
+ 
+a {
+  text-decoration: none;
+  color: #3498db;
+}
+  
+li {
+  margin: 10px 0;
+  list-style-type: none;
+}
+ 
+img {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 5px;
+}
+ 
+.top-table {
+  background-color:#DB7093 ;
+  height: 50px;
+}
+.top-table-text{
+  width :150px; 
+  text-align : center;
+}
+.table-text
+{
+  background-color:#FFC0CB ;
+  text-align: center;
+  height: 80px;
+  
+}
+
+.contacts {
+  text-align: left;
+}
+
+.courses{
+  background-color:#5cd6ff ;
+  height: 50px;
+}
+.courses-text{
+  width: 300px;
+  text-align: center;
+}
+
+.feature-item-skill 
+{
+  list-style-type: square;
+}
+
+ 
+ .icon {
+  width: 30px;
+  height: 30px;
+}
+
+.footer {
+  padding: 30px 0;
+  display: flex;
+  align-items: center;
+}
+
+.footer-block {
+  margin-right: 40px;
+}
+
+.footer-link {
+  color: #c81b05;
+}
+
+.footer-link:hover {
+  color: #410ba0;
+}
+
+.footer-text,
+.github {
+  margin: 0;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
